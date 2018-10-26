@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CMake build directory
+build
+
+# For autocomplete and syntax checking
+compile_commands.json
+.cquery_cached_index
